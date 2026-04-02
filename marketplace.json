@@ -1,0 +1,15 @@
+{
+  "name": "OKSLOP-claude-plugins",
+  "description": "Official OKSLOP plugins for Claude Code",
+  "plugins": [
+    {
+      "name": "okslop",
+      "description": "Search and generate AI stock images with OKSLOP",
+      "source": {
+        "source": "github",
+        "owner": "OKSLOP",
+        "repo": "okslop-skill"
+      }
+    }
+  ]
+}
